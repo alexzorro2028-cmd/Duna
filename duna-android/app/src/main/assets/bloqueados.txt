@@ -1,0 +1,54 @@
+# Lista de Duna: un dominio por línea (también bloquea sus subdominios)
+# Google / AdMob
+admob.com
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+adservice.google.com
+# Redes de anuncios de juegos
+unityads.unity3d.com
+applovin.com
+applvn.com
+supersonicads.com
+ironsrc.com
+ironsrc.mobi
+ironsource.mobi
+vungle.com
+liftoff.io
+liftoff-creatives.io
+mintegral.com
+mintegral.net
+rayjump.com
+pangle.io
+pangleglobal.com
+chartboost.com
+inmobi.com
+inmobicdn.net
+adcolony.com
+startapp.com
+startappservice.com
+tapjoy.com
+tapjoyads.com
+fyber.com
+inner-active.mobi
+smaato.net
+bidmachine.io
+moloco.com
+adsmoloco.com
+an.facebook.com
+# Redes de anuncios web
+adnxs.com
+criteo.com
+criteo.net
+taboola.com
+outbrain.com
+pubmatic.com
+rubiconproject.com
+openx.net
+amazon-adsystem.com
+adsrvr.org
+smartadserver.com
+popads.net
+propellerads.com
+exoclick.com
+adsterra.com
